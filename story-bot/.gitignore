@@ -5,9 +5,9 @@
 /.pnp
 .pnp.js
 
-/story-bot/node_modules
-/server/node_modules
-/server/tokens.js
+story-bot/node_modules
+server/node_modules
+server/tokens.js
 
 # testing
 /coverage
